@@ -11,7 +11,7 @@ Welcome to my agentic projects! <p>
 
 | Project Link  | Completion Date | Tools | Project Description |
 | ------------- | ------------- | ------------- | ------------- |
-| [🏠 Nutmeg & Ginger's Cottage](https://github.com/redefiningvicky/) | Oct 2026  | ChatGPT | ChatGPT was used to design, build, and refine a multiplayer fairytale game filled with clever riddles, teamwork, and sweet surprises.  |
+| [🏠 Nutmeg & Ginger's Cottage](https://github.com/redefiningvicky/) | Oct 2026  | ChatGPT | ChatGPT was used to design, build, and refine a multiplayer fairytale game filled with clever riddles and sweet surprises.  |
 
 ---
 # 🥰 Lovable <br>
