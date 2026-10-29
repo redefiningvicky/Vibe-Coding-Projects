@@ -1,7 +1,7 @@
 # 🤖 Vicky's Agentic Projects
 Welcome to my agentic projects! <p>
 ## 📑 Table of Contents <br>
-• [ChatGPT Work](https://github.com/redefiningvicky/Agentic-Projects?tab=readme-ov-file#-chatgpt-work)  <p>
+• [ChatGPT Work](https://github.com/redefiningvicky/Agentic-Projects?tab=readme-ov-file#-chatgpt-work-)  <p>
 • [Lovable](https://github.com/redefiningvicky/Agentic-Projects?tab=readme-ov-file#-chatgpt-)  <p>
 
 ---
