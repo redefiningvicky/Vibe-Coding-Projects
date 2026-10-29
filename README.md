@@ -16,4 +16,4 @@ Welcome to my agentic projects! <p>
 
 | Project Link  | Completion Date | Tools | Project Description |
 | ------------- | ------------- | ------------- | ------------- |
-| [🥰](https://github.com/redefiningvicky/) | Oct 2026  | Lovable  |   |
+| [💌 Amortentia Post](https://github.com/redefiningvicky/Amortentia-Post) | Oct 2026  | Lovable  |   |
