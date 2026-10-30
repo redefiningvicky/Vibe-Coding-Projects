@@ -1,5 +1,5 @@
-# 🤖 Vicky's Agentic Projects
-Welcome to my agentic projects! <p>
+# 🔮 Vicky's Vibe Coding Projects
+Welcome to my vibe coding projects! <p>
 ## 📑 Table of Contents <br>
 • [ChatGPT Work](https://github.com/redefiningvicky/Agentic-Projects?tab=readme-ov-file#-chatgpt-work-)  <p>
 • [Gamma](https://github.com/redefiningvicky/Agentic-Projects?tab=readme-ov-file#-gamma-)  <p>
