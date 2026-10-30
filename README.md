@@ -2,6 +2,7 @@
 Welcome to my agentic projects! <p>
 ## 📑 Table of Contents <br>
 • [ChatGPT Work](https://github.com/redefiningvicky/Agentic-Projects?tab=readme-ov-file#-chatgpt-work-)  <p>
+• [Gamma](https://github.com/redefiningvicky/Agentic-Projects?tab=readme-ov-file#-gamma-)  <p>
 • [Lovable](https://github.com/redefiningvicky/Agentic-Projects?tab=readme-ov-file#-chatgpt-)  <p>
 
 ---
@@ -10,6 +11,13 @@ Welcome to my agentic projects! <p>
 | Project Link  | Completion Date | Tools | Project Description |
 | ------------- | ------------- | ------------- | ------------- |
 | [🏠 Nutmeg & Ginger's Cottage](https://github.com/redefiningvicky/Nutmeg-Ginger-Cottage) | Oct 2026  | ChatGPT Work | ChatGPT Work was used to design, build, and refine a multiplayer fairytale game filled with clever riddles and sweet surprises.  |
+
+---
+# ֎ ChatGPT Work <br>
+
+| Project Link  | Completion Date | Tools | Project Description |
+| ------------- | ------------- | ------------- | ------------- |
+| []() | Oct 2026  | ChatGPT Work, Gamma | ChatGPT Work and   |
 
 ---
 # 🥰 Lovable <br>
