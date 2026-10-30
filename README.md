@@ -13,11 +13,11 @@ Welcome to my agentic projects! <p>
 | [🏠 Nutmeg & Ginger's Cottage](https://github.com/redefiningvicky/Nutmeg-Ginger-Cottage) | Oct 2026  | ChatGPT Work | ChatGPT Work was used to design, build, and refine a multiplayer fairytale game filled with clever riddles and sweet surprises.  |
 
 ---
-# ֎ ChatGPT Work <br>
+# 🗨️ Gamma <br>
 
 | Project Link  | Completion Date | Tools | Project Description |
 | ------------- | ------------- | ------------- | ------------- |
-| []() | Oct 2026  | ChatGPT Work, Gamma | ChatGPT Work and   |
+| []() | Oct 2026  | ChatGPT Work, Gamma | ChatGPT Work and Gamma were used   |
 
 ---
 # 🥰 Lovable <br>
