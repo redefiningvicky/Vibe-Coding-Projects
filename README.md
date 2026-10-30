@@ -17,7 +17,7 @@ Welcome to my agentic projects! <p>
 
 | Project Link  | Completion Date | Tools | Project Description |
 | ------------- | ------------- | ------------- | ------------- |
-| [👥 Thinking and Feeling: Turing Meets Angelou](https://github.com/redefiningvicky/Thinking-and-Feeling) | Oct 2026  | ChatGPT Work, Gamma | ChatGPT Work and Gamma were used to develop prompts and create visual presentations exploring machine thinking and human feeling through the works of Alan Turing and Maya Angelou.   |
+| [👥 Thinking & Feeling: Turing Meets Angelou](https://github.com/redefiningvicky/Thinking-and-Feeling) | Oct 2026  | ChatGPT Work, Gamma | ChatGPT Work and Gamma were used to develop prompts and create visual presentations exploring machine thinking and human feeling through the works of Alan Turing and Maya Angelou.   |
 
 ---
 # 🥰 Lovable <br>
