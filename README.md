@@ -24,4 +24,4 @@ Welcome to my vibe coding projects! <p>
 
 | Project Link  | Completion Date | Tools | Project Description |
 | ------------- | ------------- | ------------- | ------------- |
-| [💌 Amortentia Post](https://github.com/redefiningvicky/Amortentia-Post) | Oct 2026  | Lovable  |   |
+| [💌 Amortentia Post](https://github.com/redefiningvicky/Amortentia-Post) | Oct 2026  | Lovable  | Lovable was used to create a magical chocolate shop app that playfully explores romance through love-potion-infused treats.  |
