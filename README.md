@@ -32,4 +32,4 @@ Welcome to my vibe coding projects! <p>
 
 | Project Link  | Completion Date | Tools | Project Description |
 | ------------- | ------------- | ------------- | ------------- |
-| []() | Oct 2026  | Replit  |   |
+| []() | Oct 2026  | Replit, ChatGPT  |   |
