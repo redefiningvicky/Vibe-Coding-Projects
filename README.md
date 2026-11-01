@@ -4,6 +4,7 @@ Welcome to my vibe coding projects! <p>
 • [ChatGPT Work](https://github.com/redefiningvicky/Agentic-Projects?tab=readme-ov-file#-chatgpt-work-)  <p>
 • [Gamma](https://github.com/redefiningvicky/Agentic-Projects?tab=readme-ov-file#-gamma-)  <p>
 • [Lovable](https://github.com/redefiningvicky/Agentic-Projects?tab=readme-ov-file#-chatgpt-)  <p>
+• [Replit](https://github.com/redefiningvicky/Agentic-Projects?tab=readme-ov-file#-replit-)  <p>
 
 ---
 # ֎ ChatGPT Work <br>
@@ -25,3 +26,10 @@ Welcome to my vibe coding projects! <p>
 | Project Link  | Completion Date | Tools | Project Description |
 | ------------- | ------------- | ------------- | ------------- |
 | [💌 Amortentia Post](https://github.com/redefiningvicky/Amortentia-Post) | Oct 2026  | Lovable  | Lovable was used to create a magical chocolate shop app that playfully explores romance through love-potion-infused treats.  |
+
+---
+# ⚡ Replit <br>
+
+| Project Link  | Completion Date | Tools | Project Description |
+| ------------- | ------------- | ------------- | ------------- |
+| []() | Oct 2026  | Replit  |   |
