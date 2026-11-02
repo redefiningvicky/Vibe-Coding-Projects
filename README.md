@@ -19,7 +19,7 @@ Welcome to my vibe coding projects! <p>
 
 | Project Link  | Completion Date | Tools | Project Description |
 | ------------- | ------------- | ------------- | ------------- |
-| [✴️]() | Nov 2026  | Clay |   |
+| [✴️ Frontier 55]() | Nov 2026  | Clay |   |
 | [✴️]() | Nov 2026  | Clay |   |
 | [✴️]() | Nov 2026  | Clay |   |
 
