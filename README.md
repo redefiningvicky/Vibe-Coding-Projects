@@ -24,4 +24,4 @@ Welcome to my vibe coding projects! <p>
 
 | Project Link  | Completion Date | Tools | Project Description |
 | ------------- | ------------- | ------------- | ------------- |
-| [💍 My-Ecrin](https://github.com/redefiningvicky/My-Ecrin) | Nov 2026  | Replit, ChatGPT, Vercel  |   |
+| [💍 My-Ecrin](https://github.com/redefiningvicky/My-Ecrin) | Nov 2026  | Replit, ChatGPT, Vercel  |  Replit, ChatGPT, and Vercel were used to create a digital jewelry box for collection management. |
