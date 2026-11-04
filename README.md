@@ -17,7 +17,7 @@ Welcome to my vibe coding projects! <p>
 
 | Project Link  | Completion Date | Tools | Project Description |
 | ------------- | ------------- | ------------- | ------------- |
-| [💌 Amortentia Post](https://github.com/redefiningvicky/amortentia-post-0764d734) | Nov 2026  | Lovable, ChatGPT, Github  | Lovable was used to create a magical chocolate shop app that playfully explores romance through love-potion-infused treats.  |
+| [💌 Amortentia Post](https://github.com/redefiningvicky/amortentia-post-0764d734) | Nov 2026  | Lovable, ChatGPT, Github  | Lovable, ChatGPT and Github were used to create a magical chocolate shop app that playfully explores romance through love-potion-infused treats.  |
 
 ---
 ## ⚡ Replit <br>
