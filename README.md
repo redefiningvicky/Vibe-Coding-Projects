@@ -24,4 +24,4 @@ Welcome to my vibe coding projects! <p>
 
 | Project Link  | Completion Date | Tools | Project Description |
 | ------------- | ------------- | ------------- | ------------- |
-| []() | Nov 2026  | Replit, ChatGPT, Vercel  |   |
+| [💍 My-Ecrin](https://github.com/redefiningvicky/My-Ecrin) | Nov 2026  | Replit, ChatGPT, Vercel  |   |
