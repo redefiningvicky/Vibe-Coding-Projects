@@ -48,11 +48,11 @@
   </a>
   &nbsp; • &nbsp;
   <a href="https://github.com/redefiningvicky/Nutmeg-Ginger-Cottage/blob/main/Nutmeg_Ginger_Cottage_Screen/Nutmeg_Ginger_Cottage_Win.png">
-    View Victory PNG
+    View Victory Screen
   </a>
   &nbsp; • &nbsp;
   <a href="https://github.com/redefiningvicky/Nutmeg-Ginger-Cottage/blob/main/Nutmeg_Ginger_Cottage_Screen/Nutmeg_Ginger_Cottage_Lose.png">
-    View Defeat PNG
+    View Defeat Screen
   </a>
 </p>
 
@@ -85,7 +85,7 @@
   </a>
   &nbsp; • &nbsp;
   <a href="https://redefiningvicky.github.io/amortentia-post-0764d734/#/">
-    View App
+    Launch App
   </a>
   &nbsp; • &nbsp;
   <a href="https://redefiningvicky.github.io/amortentia-post-0764d734/#/pitch?slide=1">
@@ -118,11 +118,11 @@
   </a>
   &nbsp; • &nbsp;
   <a href="https://my-ecrin.vercel.app/">
-    View App
+    Launch App
   </a>
   &nbsp; • &nbsp;
   <a href="https://redefiningvicky.github.io/My-Ecrin/">
-    View Video
+    Watch Video
   </a>
 </p>
 
