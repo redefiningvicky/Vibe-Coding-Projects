@@ -46,6 +46,14 @@
   <a href="https://nutmeg-ginger-cottage.airyant14.chatgpt.site">
     Play Game
   </a>
+  &nbsp; • &nbsp;
+  <a href="https://github.com/redefiningvicky/Nutmeg-Ginger-Cottage/blob/main/Nutmeg_Ginger_Cottage_Screen/Nutmeg_Ginger_Cottage_Win.png">
+    View Victory PNG
+  </a>
+  &nbsp; • &nbsp;
+  <a href="https://github.com/redefiningvicky/Nutmeg-Ginger-Cottage/blob/main/Nutmeg_Ginger_Cottage_Screen/Nutmeg_Ginger_Cottage_Lose.png">
+    View Defeat PNG
+  </a>
 </p>
 
 <hr>
