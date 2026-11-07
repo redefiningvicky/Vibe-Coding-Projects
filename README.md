@@ -75,6 +75,10 @@
   <a href="https://redefiningvicky.github.io/amortentia-post-0764d734/#/">
     Launch App
   </a>
+  &nbsp; • &nbsp;
+  <a href="https://redefiningvicky.github.io/amortentia-post-0764d734/#/pitch?slide=1">
+    Launch Pitch
+  </a>
 </p>
 
 <hr>
@@ -103,6 +107,10 @@
   &nbsp; • &nbsp;
   <a href="https://my-ecrin.vercel.app/">
     Launch App
+  </a>
+  &nbsp; • &nbsp;
+  <a href="https://redefiningvicky.github.io/My-Ecrin/">
+    Watch Video
   </a>
 </p>
 
