@@ -80,12 +80,16 @@
     View Project
   </a>
   &nbsp; • &nbsp;
+  <a href="https://github.com/redefiningvicky/amortentia-post-0764d734/blob/main/app-store/01-app-store.png">
+    View Display
+  </a>
+  &nbsp; • &nbsp;
   <a href="https://redefiningvicky.github.io/amortentia-post-0764d734/#/">
-    Launch App
+    View App
   </a>
   &nbsp; • &nbsp;
   <a href="https://redefiningvicky.github.io/amortentia-post-0764d734/#/pitch?slide=1">
-    Launch Pitch
+    View Pitch
   </a>
 </p>
 
@@ -114,11 +118,11 @@
   </a>
   &nbsp; • &nbsp;
   <a href="https://my-ecrin.vercel.app/">
-    Launch App
+    View App
   </a>
   &nbsp; • &nbsp;
   <a href="https://redefiningvicky.github.io/My-Ecrin/">
-    Watch Video
+    View Video
   </a>
 </p>
 
