@@ -1,27 +1,119 @@
-# 🏄‍♂️ Vibe Coding Projects
-Welcome to my vibe coding projects! <p>
-## 📑 Table of Contents <br>
-• [ChatGPT](https://github.com/redefiningvicky/Agentic-Projects?tab=readme-ov-file#-chatgpt-)  <p>
-• [Lovable](https://github.com/redefiningvicky/Agentic-Projects?tab=readme-ov-file#-lovable-)  <p>
-• [Replit](https://github.com/redefiningvicky/Agentic-Projects?tab=readme-ov-file#-replit-)  <p>
 
----
-## ֎ ChatGPT <br>
+<div align="center">
 
-| Project Link  | Completion Date | Tools | Project Description |
-| ------------- | ------------- | ------------- | ------------- |
-| [🏠 Nutmeg & Ginger's Cottage](https://github.com/redefiningvicky/Nutmeg-Ginger-Cottage) | Oct 2026  | ChatGPT | ChatGPT was used to design, build, and refine a multiplayer fairytale game filled with clever riddles and sweet surprises.  |
+  <h1>🏄‍♂️ Vibe Coding Projects</h1>
 
----
-## 🥰 Lovable <br>
+  <p>
+    Building interactive apps and games.
+  </p>
 
-| Project Link  | Completion Date | Tools | Project Description |
-| ------------- | ------------- | ------------- | ------------- |
-| [💌 Amortentia Post](https://github.com/redefiningvicky/amortentia-post-0764d734) | Nov 2026  | Lovable, ChatGPT, Github  | Lovable, ChatGPT, and Github were used to create a magical chocolate shop app that playfully explores romance through love-potion-infused treats.  |
+</div>
 
----
-## ⚡ Replit <br>
+<hr>
 
-| Project Link  | Completion Date | Tools | Project Description |
-| ------------- | ------------- | ------------- | ------------- |
-| [💍 My-Ecrin](https://github.com/redefiningvicky/My-Ecrin) | Nov 2026  | Replit, ChatGPT, Vercel  |  Replit, ChatGPT, and Vercel were used to create a digital jewelry box for collection management. |
+<h2>📑 Table of Contents</h2>
+
+<ul>
+  <li><a href="#chatgpt">ChatGPT</a></li>
+  <li><a href="#lovable">Lovable</a></li>
+  <li><a href="#replit">Replit</a></li>
+</ul>
+
+<hr>
+
+<h2 id="chatgpt">֎ ChatGPT</h2>
+
+<h3>
+  🏠
+  <a href="https://github.com/redefiningvicky/Nutmeg-Ginger-Cottage">
+    Nutmeg & Ginger's Cottage
+  </a>
+</h3>
+
+<p>
+  A multiplayer fairytale game built around logic riddles.
+</p>
+
+<p>
+  <sub>October 2026 · ChatGPT</sub>
+</p>
+
+<p>
+  <a href="https://github.com/redefiningvicky/Nutmeg-Ginger-Cottage">
+    View Project
+  </a>
+  &nbsp; • &nbsp;
+  <a href="https://nutmeg-ginger-cottage.airyant14.chatgpt.site">
+    Play Game
+  </a>
+</p>
+
+<hr>
+
+<h2 id="lovable">🥰 Lovable</h2>
+
+<h3>
+  💌
+  <a href="https://github.com/redefiningvicky/amortentia-post-0764d734">
+    Amortentia Post
+  </a>
+</h3>
+
+<p>
+  A magical chocolate shop exploring romance and love potions.
+</p>
+
+<p>
+  <sub>November 2026 · Lovable, ChatGPT, GitHub</sub>
+</p>
+
+<p>
+  <a href="https://github.com/redefiningvicky/amortentia-post-0764d734">
+    View Project
+  </a>
+  &nbsp; • &nbsp;
+  <a href="https://redefiningvicky.github.io/amortentia-post-0764d734/#/">
+    Launch App
+  </a>
+</p>
+
+<hr>
+
+<h2 id="replit">⚡ Replit</h2>
+
+<h3>
+  💍
+  <a href="https://github.com/redefiningvicky/My-Ecrin">
+    My Ecrin
+  </a>
+</h3>
+
+<p>
+  A digital jewelry box for organizing and styling collections.
+</p>
+
+<p>
+  <sub>November 2026 · Replit, ChatGPT, Vercel</sub>
+</p>
+
+<p>
+  <a href="https://github.com/redefiningvicky/My-Ecrin">
+    View Project
+  </a>
+  &nbsp; • &nbsp;
+  <a href="https://my-ecrin.vercel.app/">
+    Launch App
+  </a>
+</p>
+
+<hr>
+
+<div align="center">
+
+  <p>
+    <a href="https://github.com/redefiningvicky/redefiningvicky">
+      Back to Portfolio
+    </a>
+  </p>
+
+</div>
