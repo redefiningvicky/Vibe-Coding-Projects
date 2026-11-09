@@ -58,6 +58,29 @@
 
 <hr>
 
+<h3>
+  🏠
+  <a href="https://github.com/redefiningvicky/Nutmeg-Ginger-Cottage-Board-Game">
+    Nutmeg & Ginger’s Cottage: Board Game Edition
+  </a>
+</h3>
+
+<p>
+  A cooperative fairytale board game concept built around logic riddles.
+</p>
+
+<p>
+  <sub>November 2026 · ChatGPT</sub>
+</p>
+
+<p>
+  <a href="https://github.com/redefiningvicky/Nutmeg-Ginger-Cottage-Board-Game">
+    View Project
+  </a>
+</p>
+
+<hr>
+
 <h2 id="lovable">🥰 Lovable</h2>
 
 <h3>
