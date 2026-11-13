@@ -138,7 +138,7 @@
     View Project
   </a>
   &nbsp; • &nbsp;
-  <a href="">
+  <a href="https://tagflip-html.lovable.app">
     Launch App
   </a>
 </p>
