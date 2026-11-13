@@ -116,6 +116,31 @@
   </a>
 </p>
 
+<h3>
+  🃏
+  <a href="https://github.com/redefiningvicky/TagFlip-HTML">
+    TagFlip HTML
+  </a>
+</h3>
+
+<p>
+  Learn HTML one flip at a time. Explore practical markup, see a live preview, and copy complete snippets for HTML files.
+</p>
+
+<p>
+  <sub>November 2026 · Lovable, ChatGPT, Claude</sub>
+</p>
+
+<p>
+  <a href="https://github.com/redefiningvicky/TagFlip-HTML">
+    View Project
+  </a>
+  &nbsp; • &nbsp;
+  <a href="">
+    Launch App
+  </a>
+</p>
+
 <hr>
 
 <h2 id="replit">⚡ Replit</h2>
@@ -132,7 +157,7 @@
 </p>
 
 <p>
-  <sub>November 2026 · Replit, ChatGPT, Vercel</sub>
+  <sub>November 2026 · Replit, ChatGPT, Vercel, Github</sub>
 </p>
 
 <p>
