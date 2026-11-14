@@ -85,7 +85,7 @@
 
 <h3>
   💌
-  <a href="https://github.com/redefiningvicky/amortentia-post-0764d734">
+  <a href="https://github.com/redefiningvicky/Amortentia-Post">
     Amortentia Post
   </a>
 </h3>
@@ -99,7 +99,7 @@
 </p>
 
 <p>
-  <a href="https://github.com/redefiningvicky/amortentia-post-0764d734">
+  <a href="https://redefiningvicky.github.io/Amortentia-Post/#/">
     View Project
   </a>
   &nbsp; • &nbsp;
@@ -111,7 +111,7 @@
     Launch App
   </a>
   &nbsp; • &nbsp;
-  <a href="https://redefiningvicky.github.io/amortentia-post-0764d734/#/pitch?slide=1">
+  <a href="https://redefiningvicky.github.io/Amortentia-Post/#/pitch?slide=1">
     View Pitch
   </a>
 </p>
