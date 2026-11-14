@@ -107,12 +107,39 @@
     View Display
   </a>
   &nbsp; • &nbsp;
-  <a href="https://redefiningvicky.github.io/amortentia-post-0764d734/#/">
+  <a href="https://redefiningvicky.github.io/amortentia-post-0764d734">
     Launch App
   </a>
   &nbsp; • &nbsp;
   <a href="https://redefiningvicky.github.io/amortentia-post-0764d734/#/pitch?slide=1">
     View Pitch
+  </a>
+</p>
+
+<br>
+
+<h3>
+  🌿
+  <a href="https://github.com/redefiningvicky/Oakenburrow-Cafe">
+    Oakenburrow Cafe
+  </a>
+</h3>
+
+<p>
+  A cozy woodland cafe game about sharing a meal, meeting the neighbors, and paying it forward.
+</p>
+
+<p>
+  <sub>November 2026 · Lovable, Claude, ChatGPT</sub>
+</p>
+
+<p>
+  <a href="https://github.com/redefiningvicky/Oakenburrow-Cafe">
+    View Project
+  </a>
+  &nbsp; • &nbsp;
+  <a href="https://oakenburrowcafe.lovable.app/">
+    Launch Game
   </a>
 </p>
 
